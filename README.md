@@ -9,6 +9,7 @@ I am currently a programming student. This profile is meant to help me explore a
 - 🌱 I’m currently learning ...
   - C++
   - Bash (Shell)
+  - Python
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I like to read novels, 🖌️ do painting and skecthing & 🎵 listen to music.
 ---
