@@ -15,9 +15,13 @@ I am currently a programming student. This profile is meant to help me explore a
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
+
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-3zef7dhgy-leomorgzzzs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ohr75ansdyw9458ujlnbw8vvv)
 </div>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ohr75ansdyw9458ujlnbw8vvv)
+</div>
 
 ---
