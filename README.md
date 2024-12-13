@@ -30,6 +30,7 @@ I am currently a programming student. This profile is meant to help me explore a
 ## ⚙️ &nbsp; Git Stats
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leomorgzzz&theme=dark&show_icons=true" /></p>
+<br/>
 
 ---
 
