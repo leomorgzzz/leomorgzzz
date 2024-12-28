@@ -17,6 +17,7 @@ I am currently a programming student. This profile is meant to help me explore a
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -28,10 +29,9 @@ I am currently a programming student. This profile is meant to help me explore a
 </span>
 
 ## ⚙️ &nbsp; Git Stats
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leomorgzzz&theme=dark&show_icons=true" /></p>
-<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=leomorgzzz&theme=dark&show_icons=true")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leomorgzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 ---
 
 <img align="center" alt="GIF" height="450px"
