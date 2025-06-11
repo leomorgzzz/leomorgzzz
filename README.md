@@ -2,6 +2,7 @@
 
 
 <img src="https://cdn3.emoji.gg/emojis/44476-froggydance.gif" width = "25"> ***Hello, I'm Leo👋***
+
 🎓 I'm a Genomic Sciences student at UNISON (University of Sonora, Mexico), passionate about data analysis, bioinformatics, and programming.
 
 🧬 My main focus is learning how to apply programming skills to biological data, especially genomic datasets.
